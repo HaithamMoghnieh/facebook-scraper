@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+facebook_comments.csv
+login_page_not_found.png
+post_login_checkpoint.png
+debug.png
